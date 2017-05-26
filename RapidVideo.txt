@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 01
+! Title: RapidVideo filters
+! Expires: 1 day (update frequency)
+!
+||rapidvideo.org###d2
+||rapidvideo.org##IMG[src="http://imagerip.net/images/2014/12/14/buttonplay.png"]
+||rapidvideo.org###\35 22717e0465ab
